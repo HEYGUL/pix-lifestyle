@@ -43,5 +43,5 @@ Durant ce point, nous discuterons :
 
 ## Proposition de contrat
 
-À l'issue de l'entretien managérial, Pix formule au candidat ou à la candidate une proposition de contrat, qui aboutie sur la signature de celui ou celle-ci dans les locaux de Pix.
+À l'issue de l'entretien managérial, Pix formule au candidat ou à la candidate une proposition de contrat, qui aboutit à la signature de celui-ci dans les locaux de Pix.
      
